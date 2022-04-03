@@ -4,8 +4,10 @@
 
 # Tecnologias utilizadas
 
-# __PHP__
-# __Codeigniter 3__
-# __MySQL__
-# __HTML__
-# __CSS__
+<ul>
+    <li>PHP</li>
+    <li>Codeigniter 3</li>
+    <li>MySQL</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
