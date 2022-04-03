@@ -32,7 +32,7 @@ class Gerador extends CI_Controller {
 		$this->load->model('qrcodes_model');
 		
 
-		$SERVERFILEPATH = $_SERVER['DOCUMENT_ROOT'].'/qrcode/assets/qrcodes/';
+		$SERVERFILEPATH = $_SERVER['DOCUMENT_ROOT'].'/GeradorQRcodes/assets/qrcodes/';
 		$text = $valor['qr'];
 		$text1= substr($text, 0,9);	
 		$folder = $SERVERFILEPATH;
