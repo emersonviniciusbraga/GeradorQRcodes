@@ -16,5 +16,5 @@
 <p style="text-align: justify;">A aplicação é de simples uso, basta o usuário digitar o link que deseja criar o código e clicar em gerar.</p>
 
 <div style="display: inline_block">
-    <img style="text-align: center;" src="../assets/img/tela 1.png">
+    <img style="text-align: center;" src="https://github.com/emersonviniciusbraga/GeradorQRcodes/blob/master/assets/img/tela%201.PNG">
 </div><br>
